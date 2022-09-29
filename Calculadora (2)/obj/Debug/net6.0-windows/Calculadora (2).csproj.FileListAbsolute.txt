@@ -1,0 +1,17 @@
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\bin\Debug\net6.0-windows\Calculadora (2).exe
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\bin\Debug\net6.0-windows\Calculadora (2).deps.json
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\bin\Debug\net6.0-windows\Calculadora (2).runtimeconfig.json
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\bin\Debug\net6.0-windows\Calculadora (2).dll
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\bin\Debug\net6.0-windows\Calculadora (2).pdb
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).csproj.AssemblyReference.cache
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora__2_.Calculadora.resources
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).csproj.GenerateResource.cache
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).AssemblyInfoInputs.cache
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).AssemblyInfo.cs
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).csproj.CoreCompileInputs.cache
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).dll
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\refint\Calculadora (2).dll
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).pdb
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\Calculadora (2).genruntimeconfig.cache
+C:\Users\Osiris\source\repos\Osiris78\Calculadora-2-\Calculadora (2)\obj\Debug\net6.0-windows\ref\Calculadora (2).dll
